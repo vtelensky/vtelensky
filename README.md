@@ -1,4 +1,4 @@
-👋 :coffee: :top: :rocket: :tada:
+👋 :coffee: :top: :rocket: :star:
 
 <!--
 **vtelensky/vtelensky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
