@@ -2,7 +2,7 @@
 
 http://telensky.info
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtelensky&show_icons=true&count_private=true" alt="vtelensky" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtelensky&show_icons=true&count_private=true&hide=commits,prs,issues" alt="vtelensky" /></p> 
 
 <!--
 **vtelensky/vtelensky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
