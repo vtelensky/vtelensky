@@ -2,10 +2,8 @@
 
 http://telensky.info
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtelensky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtelensky&show_icons=true" alt="vtelensky" /></p> 
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtelensky&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtelensky&show_icons=true&count_private=true" alt="vtelensky" /></p> 
 
 <!--
 **vtelensky/vtelensky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
