@@ -2,7 +2,6 @@
 
 http://telensky.info
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtelensky&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtelensky&show_icons=true&count_private=true" alt="vtelensky" /></p> 
 
 <!--
