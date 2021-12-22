@@ -2,8 +2,8 @@
 
 http://telensky.info
 
-[![Top Langs](https://github-readme-stats-vtelensky.vercel.app/api/top-langs/?username=vtelensky&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtelensky&show_icons=true&count_private=true&hide=stars,contribs" alt="vtelensky" /></p> 
+[![Top Langs](https://github-readme-stats-vtelensky.vercel.app/api/top-langs/?username=vtelensky&layout=compact&count_private=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtelensky&show_icons=true&count_private=true&theme=dark&hide=stars,contribs" alt="vtelensky" /></p> 
 
 <!--
 To set up private counts for top langs follow:
