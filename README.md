@@ -3,7 +3,7 @@
 http://telensky.info
 
 [![Top Langs](https://github-readme-stats-vtelensky.vercel.app/api/top-langs/?username=vtelensky&layout=compact&count_private=true&theme=vision-friendly-dark&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtelensky&show_icons=true&count_private=true&theme=vision-friendly-dark&hide=prs,issues,stars,contribs" alt="vtelensky" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats-kappa-three-79.vercel.app/api?username=vtelensky&show_icons=true&count_private=true&theme=vision-friendly-dark&hide=prs,issues,stars,contribs" alt="vtelensky" /></p> 
 
 <!--
 To set up private counts for top langs follow:
